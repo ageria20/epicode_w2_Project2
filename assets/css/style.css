@@ -1,6 +1,5 @@
 body {
     font-family: "Arial", sans-serif;
-    line-height: 1.65;
     margin: auto;
     background-color: #e9edee;
 }
@@ -17,7 +16,7 @@ header {
 
 header img {
     width: 8rem;
-    padding: 0.7rem;
+    padding: 0.5rem;
 }
 
 .subheader {
@@ -25,6 +24,7 @@ header img {
     width: 100%;
     background-color: #364759;
     color: white;
+    padding: 0.7em 0;
 }
 
 .subheader span {
@@ -75,10 +75,12 @@ header img {
     width: 100%;
     margin: 2em 0;
     padding: 0.5em;
+    line-height: 2;
 }
 
 .gifts-container span  {
     padding: 0.7em;
+    font-size: 1.2em;
     font-weight: 650;
 }
 .gifts-container a {
@@ -93,7 +95,7 @@ header img {
     padding: 1em;
     border-radius: 3em;
     object-fit: cover;
-    /* box-shadow: 5px 5px 12px 1px rgba(0,0,0,0.63); */
+    box-shadow: 10px  rgba(0,0,0,0.1);
 }
 
 .img9-container img {
