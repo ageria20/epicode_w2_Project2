@@ -88,11 +88,12 @@ header img {
 }
 
 .gifts-container img {
-    width: 26em;
+    width: 23%;
     height: 32em;
     margin: auto;
     padding: 1em;
     border-radius: 3em;
+    object-fit: cover;
     /* box-shadow: 5px 5px 12px 1px rgba(0,0,0,0.63); */
 }
 
@@ -117,6 +118,8 @@ header img {
     width: 100%;
     height: 35em;
     text-align: center;
+    border: none;
+    object-fit: cover;
 }
 
 .img10-container p  {
