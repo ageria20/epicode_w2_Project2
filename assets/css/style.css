@@ -25,7 +25,7 @@ header img {
     width: 100%;
     background-color: #364759;
     color: white;
-    padding: 0 1em
+    padding: 0 1em;
 }
 
 .subheader span {
@@ -143,12 +143,13 @@ header img {
 .above-footer {
     width: 100%;
     background-color: #364759;
-    padding: 1em 1em;
     text-align: center;
+    padding: 0.8em 0;
 }
 
 .above-footer a {
     color: white;
+    padding: 5em;
 }
 .footer {
     background-color:#222f3f;
