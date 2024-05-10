@@ -27,8 +27,11 @@ header img {
     padding: 0.7em 0;
 }
 
-.subheader span {
+
+.subheader a {
     padding-left: 2em;
+    color: white;
+    text-decoration: none;
 }
 
 .bg-orange {
