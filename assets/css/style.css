@@ -1,5 +1,5 @@
 body {
-    font-family: "Arial", sans-serif;
+    font-family: "Arial", "Helvetica", sans-serif;
     margin: auto;
     background-color: #e9edee;
 }
@@ -81,10 +81,13 @@ header img {
     line-height: 2;
 }
 
-.gifts-container span  {
-    padding: 0.7em;
-    font-size: 1.2em;
-    font-weight: 650;
+.gifts-container p  {
+    margin: 0.4em 0.4em;
+    font-size: 1.7em;
+    font-weight: 570;
+}
+.gifts-container span {
+padding: 0.4em;
 }
 .gifts-container a {
     text-decoration: none;
